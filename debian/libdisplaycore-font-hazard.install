@@ -1,2 +1,4 @@
-Hazard.cpp libraries/DisplayCore/Hazard
-Hazard.h libraries/DisplayCore/Hazard
+library.json libraries/DisplayCore/Hazard
+library.properties libraries/DisplayCore/Hazard
+README.md libraries/DisplayCore/Hazard
+src libraries/DisplayCore/Hazard
